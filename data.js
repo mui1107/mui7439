@@ -26,7 +26,7 @@ const SITE_DATA = {
 
   // ---------- 自我介紹（顯示在「在玩」清單上面）----------
   // 留空字串 "" 就不會顯示這一區，想換行的話用 \n
-  intro: "你好 我是慕伊，一個念資工系的普通大學生。\n 平常喜歡打打遊戲、聊天之類的，通常不會主動私訊，有時會在各個dc群組出現但是因為沒辦法顧及太多，所以通常都是在固定幾個群組出現。我不喜歡吵架，所以看我不順眼的自己把我刪了就好。至於我看過或了解的東西並不僅止於下方所列，所以或許會在一些話題出現。",
+  intro: "你好 我是慕伊，一個念資工系的普通大學生。可以叫其他非貶低的稱呼，都行。\n興趣有打遊戲(包括電腦和手機)、聊天、看小說等等，有時會在各個dc群組出現但是因為沒辦法顧及太多，所以通常都是在固定幾個群組出現，出現的時間不固定，有時候半夜也會出現。我稍微有一點社恐，通常不會主動私訊。我不喜歡吵架，畢竟上網不是為了吵架的，所以看我不順眼的自己把我刪了就好。至於我看過或了解的東西並不僅止於下方所列，所以或許會在一些話題出現。有很多想學的東西，所以有時候會東問西問。然後，跟我交流可能有的情況 : 講話有點跳ton、有時會飄出奇怪的冷笑話、廢文很多、可能有時候會有負面文。\n\n推角是fate grand/order 的摩根，不拒同擔。剛開始接觸oc的部分，還在探索，也在慢慢地委圖。圖片的部分放在此網頁的最下面。",
 
   // ---------- 遊戲清單 ----------
   games: {
@@ -77,6 +77,7 @@ const SITE_DATA = {
     { title: "立繪", tag: "oc", image: "images/gallery/lihui.png", desc: "", artist: "", artistUrl: "" },
     { title: "餵食", tag: "推", image: "images/gallery/weishi.jpg", desc: "", artist: "", artistUrl: "" },
     { title: "裙子", tag: "oc", image: "images/gallery/IMG_0247.jpg", desc: "", artist: "", artistUrl: "" },
+    { title: "半身像", tag: "oc", image: "images/gallery/portrait1.jpg", desc: "", artist: "", artistUrl: "" },
   ],
 
   // ---------- 創作區分類頁的整體介紹文字 ----------
@@ -113,7 +114,7 @@ const SITE_DATA = {
   // artist 是繪師名字，artistUrl 是繪師的帳號連結（沒有的話留空 "" 就不會顯示）
   nsfw: [
     { title: "圖片名稱", category: "推", url: "", desc: "", artist: "", artistUrl: "" },
-    { title: "圖片名稱", category: "oc", url: "", desc: "", artist: "", artistUrl: "" },
+    { title: "R18 插圖", category: "oc", url: "https://files.catbox.moe/hupx5y.jpg", desc: "", artist: "", artistUrl: "" },
   ],
 
   // ---------- 遊戲好友 / 好友代碼 ----------
