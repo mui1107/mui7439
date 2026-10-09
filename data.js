@@ -79,7 +79,7 @@ const SITE_DATA = {
     { title: "裙子", tag: "oc", image: "images/gallery/IMG_0247.jpg", desc: "", artist: "", artistUrl: "" },
     { title: "半身像", tag: "oc", image: "images/gallery/portrait1.jpg", desc: "", artist: "", artistUrl: "" },
     { title: "忘卻前夜守密人", tag: "oc", image: "images/gallery/design_sheet.jpg", desc: "", artist: "", artistUrl: "" },
-    { title: "立繪", tag: "oc", image: "images/gallery/lockscreen_lihui.jpg", desc: "", artist: "", artistUrl: "" },
+    { title: "立繪", tag: "oc", image: "images/gallery/lihui2.jpg", desc: "", artist: "", artistUrl: "" },
     { title: "小豆丁人", tag: "oc", image: "images/gallery/chibi.jpg", desc: "", artist: "", artistUrl: "" },
   ],
 
