@@ -78,7 +78,7 @@ const SITE_DATA = {
     { title: "餵食", tag: "推", image: "images/gallery/weishi.jpg", desc: "", artist: "", artistUrl: "" },
     { title: "裙子", tag: "oc", image: "images/gallery/IMG_0247.jpg", desc: "", artist: "", artistUrl: "" },
     { title: "半身像", tag: "oc", image: "images/gallery/portrait1.jpg", desc: "", artist: "", artistUrl: "" },
-    { title: "設定圖", tag: "oc", image: "images/gallery/design_sheet.jpg", desc: "", artist: "", artistUrl: "" },
+    { title: "忘卻前夜守密人", tag: "oc", image: "images/gallery/design_sheet.jpg", desc: "", artist: "", artistUrl: "" },
   ],
 
   // ---------- 創作區分類頁的整體介紹文字 ----------
